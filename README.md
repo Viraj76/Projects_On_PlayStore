@@ -1,32 +1,42 @@
+
 # Live Projects
 
-# 1. Bhagavad Gita App
+## Table of Contents
+
+1. [Bhagavad Gita App](#bhagavad-gita-app)
+   - [About](#about)
+   - [Tech Stack](#tech-stack)
+   - [App Screenshots](#app-screenshots)
+
+## 1. Bhagavad Gita App <a name="bhagavad-gita-app"></a>
+
 [![](https://github.com/Viraj76/My-Live-Projects-On-Play-Store/assets/98775599/9df0803c-f108-4194-b796-dc01170c3fa9)](https://play.google.com/store/apps/details?id=com.geeta.bhagwatgita)
-## About
+
+### About
+
 The Shree Bhagavad Geeta app features all 18 chapters of the holy Geeta, along with their corresponding verses. Users can read the verses and save them for offline access. The app is designed with a focus on providing a user-friendly experience.
 
-## Tech Stack
+### Tech Stack
 
 - **Kotlin, XML:**  
   For development and UI design.
-
+  
 - **MVVM with Repository Pattern:**  
   To ensure a clean architecture and separation of concerns.
-
+  
 - **Retrofit:**  
   To fetch the content of the Shree Geeta.
-
+  
 - **RoomDB:**  
   To save the chapters and verses for offline access.
-
+  
 - **Jetpack Navigation:**  
   For seamless navigation within the app.
-
+  
 - **Shimmer Effect:**  
   To display a loading effect while content is being fetched.
 
-
-## App Screen Shots
+### App Screenshots
 
 <table>
   <tr>
@@ -87,10 +97,3 @@ The Shree Bhagavad Geeta app features all 18 chapters of the holy Geeta, along w
     <td><width="320"></td>
   </tr>
 </table>
-
-
-
-
-
-
-
