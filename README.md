@@ -1,4 +1,3 @@
-# Live Projects
 
 ## Table of Contents
 
