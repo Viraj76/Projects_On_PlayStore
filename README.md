@@ -134,23 +134,30 @@
 
 <table>
   <tr>
+    <th>Splash Screen</th>
     <th>Home Screen</th>
+    <th>Select Quiz (numbers, category, difficulty)</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/28acad76-8dca-46c1-9167-0604c7b7c7a5" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/87d648d5-c6cb-4615-8c21-8e77f6956cdd" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/7caa6dcc-5eca-467a-8d89-38a98f45f730" width="320"></td>
+  </tr>
+  <tr>
+    <th>Quiz Questions Screen</th>
     <th>Select Quiz Options</th>
-    <th>Quiz Question</th>
+    <th>Submit at End</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/81aa44c3-7938-45e0-982b-8b153d141268" width="320"></td>
-    <td><img src="https://github.com/user-attachments/assets/f9d60530-86f4-40ee-8635-6374ff6cf420" width="320"></td>
-    <td><img src="https://github.com/user-attachments/assets/a5cd67d2-7c58-45a6-acfb-eb38fcaaa8f1" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/4aad62d7-e956-4425-8cd9-3de2f461fea5" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/97ba0972-1284-40ef-99a5-c847732ed0d1" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/3e30a64c-6f72-4186-a733-d0be55c04485" width="320"></td>
   </tr>
   <tr>
-    <th>Quiz Options</th>
-    <th>Question and Answer</th>
-    <th>Answer Feedback</th>
+    <th>Quiz Feedback</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/84b90155-fc96-4a2d-928c-9b7bc8113f76" width="320"></td>
-    <td><img src="https://github.com/user-attachments/assets/72648dfa-1569-4b19-8936-33cef7326e24" width="320"></td>
-    <td><img src="https://github.com/user-attachments/assets/37a68ad8-9dbf-41f9-aa78-8925f2bba5ef" width="320"></td>
+    <td><img src="https://github.com/user-attachments/assets/17956d5f-b79e-4d8f-8063-5fff8c48270b" width="320"></td>
   </tr>
 </table>
+
